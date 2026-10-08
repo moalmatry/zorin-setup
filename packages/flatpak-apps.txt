@@ -1,0 +1,5 @@
+# Flatpak Applications List
+app.zen_browser.zen
+com.heroicgameslauncher.hgl
+com.valvesoftware.Steam
+dev.vencord.Vesktop

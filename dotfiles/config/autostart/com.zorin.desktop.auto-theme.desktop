@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Zorin Auto Theme
+Comment=Zorin Auto Theme changes the desktop theme throughout the day.
+Exec=/usr/bin/zorin-auto-theme
+X-GNOME-AutoRestart=true
+NoDisplay=true

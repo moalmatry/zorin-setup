@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=NVIDIA External Display Setup
+Comment=Enables external screens on HDMI/DisplayPort via NVIDIA reverse PRIME
+Exec=/home/moalmatry/.local/bin/setup-monitors.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true

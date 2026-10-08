@@ -1,0 +1,49 @@
+# ==============================================================================
+# Zorin OS / Ubuntu 24.04 - Curated Explicitly Installed Packages
+# ==============================================================================
+
+# Core & Development Tools
+git
+gh
+curl
+wget
+p7zip-full
+cabextract
+imagemagick
+xxd
+vim
+htop
+
+# Desktop Utilities & Automation
+evtest
+wmctrl
+xdotool
+whiptail
+
+# Web Browser
+brave-browser
+
+# Hardware & Dell G15 5515 Support
+acpi-call-dkms
+acpid
+smbios-utils
+python3-libsmbios
+python3-usb
+python3-pip
+python3-venv
+pipx
+
+# Gaming & Performance Optimization
+gamemode
+mangohud
+goverlay
+steam-devices
+wine
+winetricks
+vulkan-tools
+
+# 32-bit Compatibility & Graphics Drivers (requires: dpkg --add-architecture i386)
+mesa-vulkan-drivers:i386
+libvulkan1:i386
+libgl1-mesa-dri:i386
+libgl1:i386

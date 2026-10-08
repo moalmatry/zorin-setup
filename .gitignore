@@ -1,0 +1,12 @@
+# Ignore OS & Editor Artifacts
+*~
+*.swp
+*.bak
+.DS_Store
+
+# Ignore Python Caches (if any)
+__pycache__/
+*.pyc
+
+# Ignore temporary logs
+*.log

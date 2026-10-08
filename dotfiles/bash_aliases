@@ -1,0 +1,21 @@
+# ~/.bash_aliases - Useful aliases and helpers
+
+# Quick Navigation
+alias ..="cd .."
+alias ...="cd ../.."
+alias prog="cd ~/Documents/Programming"
+
+# Prime GPU Offload Helper
+alias prime="prime-run"
+
+# Dell G15 Control Shortcuts
+alias gmode="dell-gmode"
+alias gmode-gui="dell-gmode gui"
+alias rgb="dell-rgb"
+alias rgb-gui="dell-g15-rgb-gui"
+alias power="dell-power"
+alias power-gui="dell-power-gui"
+
+# System Maintenance
+alias update="sudo apt update && sudo apt upgrade -y && flatpak update -y"
+alias clean="sudo apt autoremove -y && sudo apt autoclean"
